@@ -1,5 +1,6 @@
 {
-  "homepage": "https://adlurisowmya.github.io/weatherapp",
+  "homepage": "https://adlurisowmya.github.io/weatherapp"
+,
   "name": "weather-chart-app",
   "version": "0.1.0",
   "private": true,
